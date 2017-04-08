@@ -1,6 +1,6 @@
 ## Clash Royale Emoticon
 
-![Screen](https://bsitv.github.io/clashemoticon/screen.png)
+![Screen](https://bsitv.github.io/clashemoticon/preview.png)
 
 * 클래시로얄 이모티콘을 실제 생활에서도 사용해보세요!!
 [다운로드](https://bsitv.github.io/clashemoticon/emoticon.apk)
