@@ -8,6 +8,6 @@
   * [BSI TV 구독하기](https://www.youtube.com/channel/UCOLzKrg9PnyYlVmjSXGlMcg?sub_confirmation=1 )
   
 * Use clash royale emoticons in everyday life!
-  * [다운로드](https://bsitv.github.io/Clash-Royale-Emoticon/emoticon.apk)
+  * [Download](https://bsitv.github.io/Clash-Royale-Emoticon/emoticon.apk)
 * This app is made by BSI TV. subscribe us!! thank you
   * [BSI TV](https://www.youtube.com/channel/UCOLzKrg9PnyYlVmjSXGlMcg?sub_confirmation=1 )
